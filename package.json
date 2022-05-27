@@ -26,6 +26,7 @@
     "src",
     "dist/vaadin-router.*"
   ],
+  "types": "interfaces.d.ts",
   "scripts": {
     "install:dependencies": "bower install",
     "lint": "npm-run-all --parallel lint:*",
